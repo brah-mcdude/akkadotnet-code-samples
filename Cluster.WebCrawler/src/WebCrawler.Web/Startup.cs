@@ -12,7 +12,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using WebCrawler.Web.Hubs;
 
-namespace WebCrawler.Web
+namespace WebCrawler.Web//
 {
     public class Startup
     {
